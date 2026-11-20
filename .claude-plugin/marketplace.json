@@ -1,0 +1,13 @@
+{
+  "name": "security-response-skills",
+  "owner": { "name": "nathankim0", "url": "https://github.com/nathankim0" },
+  "metadata": { "description": "Security check and response skills for Claude Code and Codex", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "security-response",
+      "source": "./",
+      "description": "Fast read-only security checks plus per-finding response runbooks. First skill: NGINX2Root and Java4Shell.",
+      "category": "security"
+    }
+  ]
+}

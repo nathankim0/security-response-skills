@@ -1,0 +1,10 @@
+{
+  "name": "security-response",
+  "version": "1.0.0",
+  "description": "Security check and response skills: a fast read-only check finds what is affected, then each finding is fixed by its runbook and re-checked.",
+  "author": { "name": "nathankim0", "url": "https://github.com/nathankim0" },
+  "homepage": "https://github.com/nathankim0/security-response-skills",
+  "repository": "https://github.com/nathankim0/security-response-skills",
+  "license": "MIT",
+  "keywords": ["security", "incident-response", "vulnerability", "cve", "nginx", "java", "claude-skills"]
+}
