@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## v1.0.0 (2026-11-20)
+
 ### Added
 
 - `nginx2root-java4shell` skill: fast read-only check and response runbooks for NGINX2Root (CVE-2026-123007, CVE-2026-123633, CVE-2026-121810, CVE-2026-123634, CVE-2026-113425), Java4Shell (CVE-2026-114938) and the Linux SCTP privilege escalation.
